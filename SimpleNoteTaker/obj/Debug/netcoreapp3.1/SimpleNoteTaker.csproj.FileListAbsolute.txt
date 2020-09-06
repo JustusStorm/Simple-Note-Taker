@@ -1,0 +1,16 @@
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.exe
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.deps.json
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.runtimeconfig.json
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.runtimeconfig.dev.json
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.dll
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\bin\Debug\netcoreapp3.1\SimpleNoteTaker.pdb
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.csprojAssemblyReference.cache
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.Properties.Resources.resources
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.csproj.GenerateResource.cache
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.AssemblyInfoInputs.cache
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.AssemblyInfo.cs
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.dll
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.pdb
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.genruntimeconfig.cache
+D:\Github_Repositories\SimpleNoteTaker\SimpleNoteTaker\obj\Debug\netcoreapp3.1\SimpleNoteTaker.MyNotesForm.resources
